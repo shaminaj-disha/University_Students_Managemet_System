@@ -1,4 +1,4 @@
-# University_Students_Managemet_System
+# University_Students_Teachers_Managemet_System
 
 Welcome to University_Students_Managemet_System. It's a ASP.NET project created using Visual Studio IDE and MVC Framework .
 
